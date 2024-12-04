@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.io.*;
 import java.util.*;
-class Bitwise
+class Bitwise1
 {
     void m1()
     {
@@ -21,7 +21,7 @@ class Bitwise
 
     }
 }
-class MainDemo
+class Bitwise
 {
     public static void main(String []args)
     {
